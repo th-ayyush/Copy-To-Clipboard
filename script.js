@@ -1,3 +1,4 @@
+//Logic starts here
 var toCopy = document.getElementById( 'to-copy' ),
 btnCopy = document.getElementById( 'copy' ),
 paste = document.getElementById( 'cleared' );
